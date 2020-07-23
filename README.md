@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center">
-  JavaScript | Angular | Dart | Flutter | Java | NodeJS | DevSecOps | 
+  JavaScript | Angular | Dart | Flutter | Java | NodeJS | DevSecOps |
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
   💼 <b>FullStack Software Engineer</b> - 4 years of experience in the <b>Banking Industry</b>
 </p>
 <p align="center">
-  📌 Living in <b>São Paulo</b>, SP <b>Brazil</b> &nbsp; 
+  📌 Living in <b>São Paulo</b>, SP - <b>Brazil</b> &nbsp; 
 </p>
 <p align="center">
   🎓 Graduated in <b>Analysis and Development of Systems</b> at <b>FATEC Ipiranga</b>
