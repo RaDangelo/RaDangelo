@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center">
-  JavaScript | Angular | Dart | Flutter | Java | DevSecOps | 
+  JavaScript | Angular | Dart | Flutter | Java | NodeJS | DevSecOps | 
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@
   🎓 International Graduation in <b>Information and Communication Technology</b> at <b>De Montfort University - Leicester UK</b>
 </p>
 <p align="center">
-  🚀 Professional Experiences with <b>Angular</b>, <b>Java</b> and <b>DevSecOps</b>
+  🚀 Professional Experiences with <b>Angular</b>, <b>Java</b>, <b>Web Development Architecture</b> and <b>DevSecOps</b>
 </p>
 <p align="center"> 
-  🎯 Focused today in <b>Front-end Technologies</b> such as <b>Angular</b>, <b>Flutter</b> and <b>ReactJS</b>
+  🎯 Focused on <b> Web and Mobile Front-end Technologies</b> such as <b>Angular</b>, <b>Flutter</b> and <b>ReactJS</b>
 </p>
