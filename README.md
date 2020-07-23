@@ -45,7 +45,7 @@
   📌 Living in <b>São Paulo</b>, SP <b>Brazil</b> &nbsp; 
 </p>
 <p align="center">
-  🎓 Graduated in <b>Analysis and Systems Development</b> at <b>FATEC Ipiranga</b>
+  🎓 Graduated in <b>Analysis and Development of Systems</b> at <b>FATEC Ipiranga</b>
 </p>
 <p align="center"> 
   🎓 International Graduation in <b>Information and Communication Technology</b> at <b>De Montfort University - Leicester UK</b>
