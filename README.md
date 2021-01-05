@@ -45,6 +45,9 @@
   📌 Living in <b>São Paulo</b>, SP - <b>Brazil</b> &nbsp; 
 </p>
 <p align="center">
+  💻 Currently working for <label style="color:blue">BairesDev</label>, in the <b>UK</b>, remotely &nbsp; 
+</p>
+<p align="center">
   🎓 Graduated in <b>Analysis and Development of Systems</b> at <b>FATEC Ipiranga</b>
 </p>
 <p align="center"> 
@@ -54,5 +57,5 @@
   🚀 Professional Experiences with <b>Angular</b>, <b>Java</b>, <b>Web Development Architecture</b> and <b>DevSecOps</b>
 </p>
 <p align="center"> 
-  🎯 Focused on <b> Web and Mobile Front-end Technologies</b> such as <b>Angular</b>, <b>Flutter</b> and <b>ReactJS</b>
+  🎯 Focused on <b> Web and Mobile Front-end Technologies</b> such as <b>Angular</b>, <b>Flutter</b>, <b>Vue</b> and <b>ReactJS</b>
 </p>
