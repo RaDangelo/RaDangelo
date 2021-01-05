@@ -40,21 +40,23 @@
 <p align="center">
   📌 Living in <b>São Paulo</b>, SP - <b>Brazil</b> &nbsp; 
 </p>
-<p align="left" style="padding-left: 20%">
+<div style="padding-left: 20%">
+<p align="left">
   💼 <b>FullStack Software Engineer</b> - 4 years of experience in the <b>Banking Industry</b> | 1 year on <b>Retail</b>
 </p>
-<p align="left" style="padding-left: 20%">
+<p align="left">
   💻 Currently working for <b style="color:blue">BairesDev</b>, in the <b>UK</b>, remotely &nbsp; 
 </p>
-<p align="left" style="padding-left: 20%">
+<p align="left">
   🎓 Graduated in <b>Analysis and Development of Systems</b> at <b>FATEC Ipiranga</b>
 </p>
-<p align="left" style="padding-left: 20%"> 
+<p align="left"> 
   🎓 International Graduation in <b>Information and Communication Technology</b> at <b>De Montfort University - Leicester UK</b>
 </p>
-<p align="left" style="padding-left: 20%">
+<p align="left">
   🚀 Professional Experiences with <b>Angular</b>, <b>Java</b>, <b>Web Development Architecture</b> and <b>DevSecOps</b>
 </p>
-<p align="left" style="padding-left: 20%"> 
+<p align="left"> 
   🎯 Focused on <b> Web and Mobile Front-end Technologies</b> such as <b>Angular</b>, <b>Flutter</b>, <b>Vue</b> and <b>ReactJS</b>
 </p>
+</div>
