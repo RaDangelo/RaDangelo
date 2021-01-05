@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  💼 <b>FullStack Software Engineer</b> - 4 years of experience in the <b>Banking Industry</b>
+  💼 <b>FullStack Software Engineer</b> - 4 years of experience in the <b>Banking Industry</b> | <b>1 year on retail</b>
 </p>
 <p align="center">
   📌 Living in <b>São Paulo</b>, SP - <b>Brazil</b> &nbsp; 
