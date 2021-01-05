@@ -45,7 +45,7 @@
   📌 Living in <b>São Paulo</b>, SP - <b>Brazil</b> &nbsp; 
 </p>
 <p align="center">
-  💻 Currently working for <label style="color:blue">BairesDev</label>, in the <b>UK</b>, remotely &nbsp; 
+  💻 Currently working for <b>BairesDev</b>, in the <b>UK</b>, remotely &nbsp; 
 </p>
 <p align="center">
   🎓 Graduated in <b>Analysis and Development of Systems</b> at <b>FATEC Ipiranga</b>
